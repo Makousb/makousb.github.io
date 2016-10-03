@@ -1,0 +1,61 @@
+*{
+  margin: 0;
+}
+html, body{
+  height: 100%;
+}
+
+.sectOne{
+height: 100%;
+background-color: red;
+background-image: url("http://www.wallpaperun.com/wp-content/uploads/2016/03/Wallpaper-Tumblr-Widescreen-G3Q-1.jpg");
+z-index: -1;
+background-size: cover;
+background-attachment: fixed;
+}
+.sectTwo{
+height: 100%;
+background-color: white;
+background-attachment: fixed;
+}
+.sectThree{
+height: 50%;
+background-color: black;
+background-image: url("https://secure.static.tumblr.com/a10b40131efc719d0bff421226b9c52b/mgljrms/FhRn39yoc/tumblr_static_tumblr_lc7jr1nwvb1qdbbywo1_500.jpg");
+background-size:cover;
+z-index: -1;
+background-attachment: fixed;
+}
+.sectFour{
+height: 100%;
+background-color: white;
+background-size: cover;
+z-index: -1;
+background-attachment: fixed;
+}
+
+
+
+img{
+  position: relative;
+  top: 250px;
+  float: right;
+  right: 150px;
+
+}
+
+p{
+  font-size: 15px
+}
+li{
+  font-size: 15px
+}
+h5{
+  font-size: 18px
+}
+.table{
+  padding: 2px;
+  background-color: grey;
+  border: 5px solid black;
+
+}
